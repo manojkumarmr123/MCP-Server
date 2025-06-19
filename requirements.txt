@@ -1,0 +1,7 @@
+--trusted-host pypi.org --trusted-host files.pythonhosted.org pip-system-certs
+langchain-groq
+langchain-mcp-adapters
+mcp
+langgraph
+openai
+langchain_openai
